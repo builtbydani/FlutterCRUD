@@ -3,7 +3,7 @@
 A simple but persistent to-do list app built in Flutter. This project was created as a guided learning exercise to cover the fundamentals of mobile app development with Flutter.
 
 ---
-## ## Features
+## Features
 
 * 📝 **Add Items:** Easily add new homework assignments to your list.
 * ✔️ **Mark as Complete:** Check off completed items to see a satisfying strikethrough.
@@ -11,15 +11,15 @@ A simple but persistent to-do list app built in Flutter. This project was create
 * 💾 **Persistent Storage:** Your list is saved automatically on every change and reloaded when you reopen the app.
 
 ---
-## ## Getting Started
+## Getting Started
 
 To get a local copy up and running, follow these simple steps.
 
-### ### Prerequisites
+### Prerequisites
 
 You will need the [Flutter SDK](https://flutter.dev/docs/get-started/install) installed on your machine.
 
-### ### Installation
+### Installation
 
 1.  Clone the repo
     ```sh
@@ -39,7 +39,7 @@ You will need the [Flutter SDK](https://flutter.dev/docs/get-started/install) in
     ```
 
 ---
-## ## Future Plans
+## Future Plans
 
 -   🎨 Complete UI overhaul for a more polished look.
 -   📚 Group homework by class or subject.
